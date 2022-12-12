@@ -1,0 +1,3 @@
+vscode==1.0.0
+chatgpt==2.1.0
+tensorflow==2.4.0
